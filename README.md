@@ -56,7 +56,7 @@ No OpenAI, no BigQuery, no paid cloud services.
 
 ## ⚙️ Prerequisites
 
-Install the following on your machine:
+Install the following on your machine before start:
 
 - **Python 3.10+**
 - **PostgreSQL 15**
